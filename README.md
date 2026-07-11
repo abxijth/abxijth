@@ -20,7 +20,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-abxijth.github.io-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://abxijth.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-abxijth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abxijth)
 [![Instagram](https://img.shields.io/badge/Instagram-abxijth-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abxijth)
-[![YouTube](https://img.shields.io/badge/YouTube-@abxijth-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@abxijth)
 [![Gmail](https://img.shields.io/badge/Gmail-abhijithrpillai231-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijithrpillai231@gmail.com)
 
 <br>
