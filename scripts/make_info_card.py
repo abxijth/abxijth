@@ -49,7 +49,7 @@ ROWS = [
     ("host",),
     ("kv", "Role", "Software & AI Engineering"),
     ("kv", "Area", "Web · App · Linux"),
-    ("kv", "Also", "OS Customization (Ricing)"),
+    ("kv", "Also", "Active member @ amFOSS"),
     ("gap",),
     ("sec", "Stack"),
     ("kv", "Lang", "Python, Java, C, JS"),
